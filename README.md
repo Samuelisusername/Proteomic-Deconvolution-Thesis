@@ -7,5 +7,4 @@ The framework serves as a foundation for developing and benchmarking future tool
 
 
 Models with their different prediction errors: 
-<img width="1827" height="533" alt="bayesFractions_cropped" src="https://github.com/user-attachments/assets/3d77a1fd-07aa-47db-91d3-037464c58638" />
-
+<img width="1440" height="864" alt="big_compare" src="https://github.com/user-attachments/assets/2513c24c-a54f-42c8-8208-4fefd386aba7" />
