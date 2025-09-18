@@ -4,3 +4,8 @@ The framework serves as a foundation for developing and benchmarking future tool
 
 <img width="1827" height="533" alt="bayesFractions_cropped" src="https://github.com/user-attachments/assets/287aa3dc-2d1b-45b7-9fee-ca05cc5f5747" />
 
+
+
+Models with their different prediction errors: 
+<img width="1827" height="533" alt="bayesFractions_cropped" src="https://github.com/user-attachments/assets/3d77a1fd-07aa-47db-91d3-037464c58638" />
+
