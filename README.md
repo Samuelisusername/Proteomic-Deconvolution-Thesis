@@ -14,7 +14,7 @@ This work lead to the co-authoring of a published poster presentation:
 
 ---
 
-[//]: <>(## Visual Summary)
+[//]: <> (## Visual Summary)
 
 [//]: <> (### Predicted Cell Fractions Using BayesPrism)
 
