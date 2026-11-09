@@ -14,11 +14,11 @@ This work lead to the co-authoring of a published poster presentation:
 
 ---
 
-## Visual Summary
+[//]: <>(## Visual Summary)
 
-### Predicted Cell Fractions Using BayesPrism
+[//]: <> (### Predicted Cell Fractions Using BayesPrism)
 
-<img width="1827" height="533" alt="BayesPrism Fractions" src="https://github.com/user-attachments/assets/287aa3dc-2d1b-45b7-9fee-ca05cc5f5747" />
+[//]: <> (<img width="1827" height="533" alt="BayesPrism Fractions" src="https://github.com/user-attachments/assets/287aa3dc-2d1b-45b7-9fee-ca05cc5f5747" />)
 
 ---
 
