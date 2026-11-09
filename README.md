@@ -9,7 +9,8 @@ In this thesis, we demonstrate the efficacy and limitations of various **proteom
 This framework serves as a foundation for developing and benchmarking future tools aimed at generating more accurate proteomic profile estimations. Improved accuracy in cell fraction estimation can ultimately contribute to advancing personalized treatment strategies for lymphoma patients.
 
 This work lead to the co-authoring of a published poster presentation:
-Scheithauer, T., Sibilia, L., Herold, M., Gair, S., Carbo, M. P., et al. (2026). Benchmarking Deconvolution Tools for Proteomics Data. Poster accepted for presentation at the European Conference on Computational Biology (ECCB 2026).
+
+**Scheithauer, T., Sibilia, L., Herold, M., Gair, S., Carbo, M. P., et al. (2026). Benchmarking Deconvolution Tools for Proteomics Data. Poster accepted for presentation at the European Conference on Computational Biology (ECCB 2026).**
 
 ---
 
