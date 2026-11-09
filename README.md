@@ -12,7 +12,7 @@ This work lead to the co-authoring of a published poster presentation:
 
 **Scheithauer, T., Sibilia, L., Herold, M., Gair, S., Carbo, M. P., et al. (2026). Benchmarking Deconvolution Tools for Proteomics Data. Poster accepted for presentation at the European Conference on Computational Biology (ECCB 2026).**
 
----
+[//]: <> (---)
 
 [//]: <> (## Visual Summary)
 
